@@ -20,7 +20,7 @@ GITHUB PAGES UPLOAD
 
 CONTACT
 Email: shawalshahid946@gmail.com
-WhatsApp: +92 342 066 6123
+WhatsApp: 0328 9116346
 
 PRICING NOTE
 Prices are suggested starter rates and can be edited in pricing.html before publishing.
