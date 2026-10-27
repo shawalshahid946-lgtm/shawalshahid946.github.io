@@ -1,13 +1,29 @@
 SHAWAL SHAHID — AMAZON GRAPHIC DESIGNER PORTFOLIO
 
-Upload ALL files in this folder to the root of your GitHub repository (not inside another folder). Keep index.html at the root.
+FILES
+- index.html: Home
+- services.html: Services
+- portfolio.html: Portfolio and Amazon listing references
+- about.html: About Shawal
+- process.html: Project process
+- why-me.html: Why work with me
+- pricing.html: Suggested starting prices
+- contact.html: Email and WhatsApp contact
+- style.css: Shared black and orange design theme
 
-Pages: Home (index.html), Services, Portfolio, About Me, My Process, Why Work With Me, Contact.
+GITHUB PAGES UPLOAD
+1. Extract this ZIP on your computer.
+2. Open your existing GitHub repository.
+3. Upload the files inside this folder (not the ZIP itself).
+4. Replace files with matching names, and commit the changes.
+5. Keep all HTML files and style.css together in the repository root.
 
-Projects: Rayvi Electrolyte Packets, Babywaze Wooden Walker, KULVANO Rolling Knife Sharpener. Project cards link to the Amazon listing and Brand Store. Images load from Amazon image URLs and may vary in availability.
+CONTACT
+Email: shawalshahid946@gmail.com
+WhatsApp: +92 342 066 6123
 
-Contact: shawalshahid946@gmail.com | WhatsApp +92 342 066 123
+PRICING NOTE
+Prices are suggested starter rates and can be edited in pricing.html before publishing.
 
-GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root) > Save.
-
-Theme: Black and orange.
+PORTFOLIO TRANSPARENCY
+Amazon links are references supplied by the designer. Do not represent third-party brand work as original work unless authorship/permission can be verified.
