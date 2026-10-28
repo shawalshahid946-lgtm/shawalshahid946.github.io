@@ -1,29 +1,18 @@
-SHAWAL SHAHID — AMAZON GRAPHIC DESIGNER PORTFOLIO
+SHAWAL SHAHID - AMAZON GRAPHIC DESIGN PORTFOLIO
 
-FILES
-- index.html: Home
-- services.html: Services
-- portfolio.html: Portfolio and Amazon listing references
-- about.html: About Shawal
-- process.html: Project process
-- why-me.html: Why work with me
-- pricing.html: Suggested starting prices
-- contact.html: Email and WhatsApp contact
-- style.css: Shared black and orange design theme
+Files included:
+- index.html (Home)
+- services.html
+- portfolio.html
+- about.html
+- process.html
+- why-me.html
+- pricing.html
+- contact.html
+- style.css
 
-GITHUB PAGES UPLOAD
-1. Extract this ZIP on your computer.
-2. Open your existing GitHub repository.
-3. Upload the files inside this folder (not the ZIP itself).
-4. Replace files with matching names, and commit the changes.
-5. Keep all HTML files and style.css together in the repository root.
+For GitHub Pages, upload all files together into the repository root. Keep index.html and style.css in the same folder as the other HTML pages.
 
-CONTACT
-Email: shawalshahid946@gmail.com
-WhatsApp: 0328 9116346
+Contact: shawalshahid946@gmail.com | WhatsApp: 0328 9116346
 
-PRICING NOTE
-Prices are suggested starter rates and can be edited in pricing.html before publishing.
-
-PORTFOLIO TRANSPARENCY
-Amazon links are references supplied by the designer. Do not represent third-party brand work as original work unless authorship/permission can be verified.
+Portfolio links are public Amazon reference pages, not claims of original client work. YouTube links are searches for public educational videos, not videos produced by Shawal Shahid.
