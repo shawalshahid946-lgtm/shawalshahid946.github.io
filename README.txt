@@ -15,4 +15,6 @@ For GitHub Pages, upload all files together into the repository root. Keep index
 
 Contact: shawalshahid946@gmail.com | WhatsApp: 0328 9116346
 
-Portfolio links are public Amazon reference pages, not claims of original client work. YouTube links are searches for public educational videos, not videos produced by Shawal Shahid.
+Portfolio links are public Amazon reference pages, not claims of original client work. No external video links are included. A finished custom promotional video is not embedded in this website version.
+
+Additional services listed: Instagram post design and Facebook post design.
