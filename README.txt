@@ -1,4 +1,4 @@
-SHAWAL SHAHID — GRAPHIC DESIGN PORTFOLIO
+SHAWALDESIGNER — GRAPHIC DESIGN PORTFOLIO
 
 Upload every file and folder in this ZIP to the ROOT of your GitHub Pages repository.
 Keep the images folder in the same root location as index.html.
